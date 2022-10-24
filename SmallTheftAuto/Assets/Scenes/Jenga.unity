@@ -131,6 +131,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1246266315}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (5)
@@ -195,6 +223,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 516052563}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (1)
@@ -259,6 +315,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1138155429}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (5)
@@ -323,6 +407,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 345606435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -379,6 +491,50 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8382309275533421873, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
   m_PrefabInstance: {fileID: 161940690}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &239701026
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 239701028}
+  - component: {fileID: 239701027}
+  m_Layer: 0
+  m_Name: Brick Counter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &239701027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 239701026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a93d122a6c60e4a9ce66bbfe4104d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &239701028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 239701026}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.9564867, y: -22.115864, z: 21.506758}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &328532569
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -387,6 +543,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1321966783}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (5)
@@ -485,6 +669,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1321966783}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (4)
@@ -684,6 +896,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1756394274}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (4)
@@ -782,6 +1022,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 378722435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (4)
@@ -880,6 +1148,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1756394274}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (3)
@@ -978,6 +1274,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 640821045}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (1)
@@ -1143,6 +1467,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1246266315}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (4)
@@ -1207,6 +1559,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 516052563}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -1276,6 +1656,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 345606435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -1340,6 +1748,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1321966783}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (3)
@@ -1404,6 +1840,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1138155429}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (4)
@@ -1468,6 +1932,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 640821045}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -1532,6 +2024,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 508447517}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -1596,6 +2116,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 508447517}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -1660,6 +2208,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1138155429}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (3)
@@ -1826,6 +2402,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 378722435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (3)
@@ -1890,6 +2494,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 554354098}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (1)
@@ -2052,6 +2684,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1246266315}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (3)
@@ -2116,6 +2776,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 554354098}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -2214,6 +2902,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 345606435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (1)
@@ -2278,6 +2994,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 1756394274}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (5)
@@ -2342,6 +3086,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 378722435}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (5)
@@ -2406,6 +3178,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 554354098}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick
@@ -2564,6 +3364,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 640821045}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (2)
@@ -2628,6 +3456,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 508447517}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick (1)
@@ -2692,6 +3548,38 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 516052563}
     m_Modifications:
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 239701027}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: CountBrick
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
+      value: BrickCounter, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_BoolArgument
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5283683939320297167, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
+      propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 8382309275533421869, guid: 7df677dffa2f6d84992617ff55575541, type: 3}
       propertyPath: m_Name
       value: Brick
