@@ -31,22 +31,16 @@ public class PlayerMovement : MonoBehaviour //note: i may have gone a bit too fa
     {
         isgrounded = false;
     }
-    
     void Update()
     {
         if (isgrounded)
         {
             //wrapping full movement in isgrounded - because you can't alter movement midair!
-            if (Input.GetKey(KeyCode.W))
-                thisbody.AddForce(transform.right * thrust); //LEGACY CODE: transform.Translate(0.005f, 0f, 0f);
-            if (Input.GetKey(KeyCode.S))
-                thisbody.AddForce(transform.right * -thrust); //LEGACY CODE: transform.Translate(-0.005f, 0f, 0f);
+            if (Input.GetKey(KeyCode.W)) thisbody.AddForce(transform.right * thrust); //LEGACY CODE: transform.Translate(0.005f, 0f, 0f);
+            if (Input.GetKey(KeyCode.S)) thisbody.AddForce(transform.right * -thrust); //LEGACY CODE: transform.Translate(-0.005f, 0f, 0f);
             if (Input.GetKey(KeyCode.A)) transform.Rotate(0f, -0.15f, 0f);
             if (Input.GetKey(KeyCode.D)) transform.Rotate(0f, 0.15f, 0f);
-            /*dev notes for above:
-             legacy code commented out, just in case reversion is necessary.
-             addforce is using transform.right due to the map technically being 'sideways'.
-            */
+            //addforce is using transform.right due to the map technically being 'sideways'.
 
             //Jump logic:
             if (Input.GetKeyDown(KeyCode.Space))
@@ -56,21 +50,12 @@ public class PlayerMovement : MonoBehaviour //note: i may have gone a bit too fa
                     thisbody.AddForce(transform.up * thrust);
                     jumptimer += Time.fixedDeltaTime;
                 }
-
                 jumptimer = 0;
             }
         }
         //speed limits:
         //bug: following currently gimps jumping and moving at the same time, limiting y-axis move to magnitude. not sure how to fix.
-
-        if (thisbody.velocity.y > maxjumpspeed) //up velocity limiter
-        {
-            thisbody.velocity = thisbody.velocity.normalized * maxjumpspeed;
-        }
-
-        if (thisbody.velocity.magnitude > maxspeed)
-        {
-            thisbody.velocity = thisbody.velocity.normalized * maxspeed;
-        }
+        if (thisbody.velocity.y > maxjumpspeed) { thisbody.velocity = thisbody.velocity.normalized * maxjumpspeed; } //for jumps
+        if (thisbody.velocity.magnitude > maxspeed) { thisbody.velocity = thisbody.velocity.normalized * maxspeed; } //for walking
     }
 }
