@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class PlayerMovement : MonoBehaviour //note: i may have gone a bit too far in a couple of places.
 {
@@ -33,17 +34,22 @@ public class PlayerMovement : MonoBehaviour //note: i may have gone a bit too fa
     }
     void Update()
     {
-        if (isgrounded)
+        if (isgrounded)//wrapping full movement in isgrounded - because you can't alter movement midair!
         {
-            //wrapping full movement in isgrounded - because you can't alter movement midair!
-            if (Input.GetKey(KeyCode.W)) thisbody.AddForce(transform.right * thrust); //LEGACY CODE: transform.Translate(0.005f, 0f, 0f);
-            if (Input.GetKey(KeyCode.S)) thisbody.AddForce(transform.right * -thrust); //LEGACY CODE: transform.Translate(-0.005f, 0f, 0f);
-            if (Input.GetKey(KeyCode.A)) transform.Rotate(0f, -0.15f, 0f);
-            if (Input.GetKey(KeyCode.D)) transform.Rotate(0f, 0.15f, 0f);
-            //addforce is using transform.right due to the map technically being 'sideways'.
+            //movement logic:
+            if (Input.GetButton("Horizontal"))
+            {
+                thisbody.AddForce(transform.right * (thrust * Input.GetAxis("Horizontal"))); 
+                //.right due to the map being 'sideways'.
+            }
 
+            if (Input.GetButton("Rotation"))
+            {
+                transform.Rotate(0f, 0.15f*Input.GetAxis("Rotation"), 0f);
+            }
+            
             //Jump logic:
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetButtonDown("Jump"))
             {
                 while (jumptimer < 1)
                 {
