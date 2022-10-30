@@ -678,6 +678,7 @@ GameObject:
   m_Component:
   - component: {fileID: 354617833}
   - component: {fileID: 354617834}
+  - component: {fileID: 354617835}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -693,7 +694,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 354617832}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.6849746, y: -17.545, z: -2.5366912}
+  m_LocalPosition: {x: -1.58, y: 0.2, z: -2.81}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -708,11 +709,25 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 354617832}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 70c02b260a248e64f842488d371e3d8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &354617835
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 354617832}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0228ab37321f9d4eb9f025cf46f5b0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 1065974915}
+  carMovement: {fileID: 354617834}
 --- !u!1 &537881429
 GameObject:
   m_ObjectHideFlags: 0
@@ -1101,7 +1116,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 791498330}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.32, y: 17.77, z: -0.64}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.8}
   m_ConstrainProportionsScale: 0
   m_Children:
