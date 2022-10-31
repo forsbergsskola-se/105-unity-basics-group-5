@@ -5,51 +5,16 @@ public class Vehicle : MonoBehaviour
     public GameObject player;
     public CarMovement carMovement;
 
-    public float lengthAwayFromPlayer;
-
-    void Update()
+    public void Enter()
     {
-        if (EnterCarButtonPressed() )
-        {
-            if(PlayerIsInCar())
-            {
-                LeaveCar();
-            }
-            else
-            {
-                if(IsPlayerCloseEnough())
-                    EnterCar();
-            }
-        }
-    }
-    
-    bool EnterCarButtonPressed()
-    {
-        return Input.GetButtonDown("Interact-Vehicle");
-    }
-    
-    bool PlayerIsInCar()
-    {
-        return !player.activeInHierarchy;
-    }
-
-    void EnterCar()
-    {                
         player.SetActive(false);
         carMovement.enabled = true;
-        
     }
-    void LeaveCar()
+
+    public void Exit()
     {
         player.transform.position = transform.position;
         player.SetActive(true);
         carMovement.enabled = false;
-    }
-
-    bool IsPlayerCloseEnough()
-    {
-        if(Vector3.Distance(player.transform.position, transform.position) < lengthAwayFromPlayer) 
-            return true;
-        return false;
     }
 }

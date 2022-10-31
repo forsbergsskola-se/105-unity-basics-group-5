@@ -714,6 +714,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70c02b260a248e64f842488d371e3d8d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vehicle: {fileID: 354617835}
+  player: {fileID: 1065974915}
 --- !u!114 &354617835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -728,7 +730,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1065974915}
   carMovement: {fileID: 354617834}
-  lengthAwayFromPlayer: 0.7
 --- !u!1 &537881429
 GameObject:
   m_ObjectHideFlags: 0
@@ -1718,6 +1719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1065974916}
   - component: {fileID: 1065974917}
+  - component: {fileID: 1065974918}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1754,6 +1756,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7ce11d31b82525d4abc650c0314c65f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1065974918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1065974915}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0f2b14e57bedd64298df0340732995d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vehicle: {fileID: 354617835}
+  lengthAwayFromPlayer: 0.7
 --- !u!1001 &1073167115
 PrefabInstance:
   m_ObjectHideFlags: 0
