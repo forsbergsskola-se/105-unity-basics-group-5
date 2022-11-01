@@ -1,10 +1,17 @@
 
+using System;
 using UnityEngine;
 
 public class CarMovement : MonoBehaviour
 {
     public Vehicle vehicle;
     public GameObject player;
+
+    private void Awake()
+    {
+        player = FindObjectOfType<PlayerMovement>().gameObject;
+    }
+
     void Update()
     {
         float horizontal = Input.GetAxis("Horizontal");
