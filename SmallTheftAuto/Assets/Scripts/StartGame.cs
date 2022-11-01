@@ -12,16 +12,7 @@ public class StartGame : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            if (!isActive)
-            {
-                mainMenu.SetActive(true);
-                isActive = true;
-            }
-            else
-            {
-                mainMenu.SetActive(false);
-                isActive = false;
-            }
+            mainMenu.SetActive(!mainMenu.activeInHierarchy);
         }
     }
 
@@ -36,9 +27,6 @@ public class StartGame : MonoBehaviour
 
     public void Menu()
     {
-        if(mainMenu.activeInHierarchy)
-            mainMenu.SetActive(false);
-        else
-            mainMenu.SetActive(true);
+        mainMenu.SetActive(!mainMenu.activeInHierarchy);
     }
 }
