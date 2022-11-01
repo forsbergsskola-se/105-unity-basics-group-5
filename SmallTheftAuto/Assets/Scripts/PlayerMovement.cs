@@ -21,7 +21,7 @@ public class PlayerMovement : MonoBehaviour
         float vertical = Input.GetAxis("Vertical");
         transform.Translate(0f, 0f, vertical * Time.deltaTime) ;
         
-       
+        
 
 
     }

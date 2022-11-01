@@ -6,14 +6,39 @@ using UnityEngine.SceneManagement;
 
 public class StartGame : MonoBehaviour
 {
+    public GameObject mainMenu;
+    private bool isActive;
     private void Update()
     {
-        LoadGame();
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (!isActive)
+            {
+                mainMenu.SetActive(true);
+                isActive = true;
+            }
+            else
+            {
+                mainMenu.SetActive(false);
+                isActive = false;
+            }
+        }
     }
 
     public void LoadGame()
     {
         SceneManager.LoadScene("SanAndreas");
-        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void Menu()
+    {
+        if(mainMenu.activeInHierarchy)
+            mainMenu.SetActive(false);
+        else
+            mainMenu.SetActive(true);
     }
 }
