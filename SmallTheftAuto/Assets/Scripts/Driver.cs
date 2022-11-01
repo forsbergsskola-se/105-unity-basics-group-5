@@ -9,7 +9,7 @@ public class Driver : MonoBehaviour
     private void Update()
     {
         if (EnterCarButtonPressed() && IsPlayerCloseEnough())
-            vehicles[0].Enter();
+            vehicles[1].Enter();
     }
     
     bool EnterCarButtonPressed()
@@ -17,6 +17,7 @@ public class Driver : MonoBehaviour
         if (Input.GetButtonDown("Interact-Vehicle"))
         {
             vehicles = FindObjectsOfType<Vehicle>();
+            //Debug.Log(vehicles.Length);
             return true;
         }
 
@@ -25,7 +26,7 @@ public class Driver : MonoBehaviour
     
     bool IsPlayerCloseEnough()
     {
-        if(Vector3.Distance(transform.position, vehicles[0].transform.position) < lengthAwayFromPlayer) 
+        if(Vector3.Distance(transform.position, vehicles[1].transform.position) < lengthAwayFromPlayer) 
             return true;
         return false;
     }

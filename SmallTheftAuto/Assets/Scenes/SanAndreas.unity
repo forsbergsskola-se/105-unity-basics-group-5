@@ -936,7 +936,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.52
+      value: -0.95
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalPosition.y
@@ -944,11 +944,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.37
+      value: -12.8
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalRotation.x
@@ -956,7 +956,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalRotation.z
@@ -968,7 +968,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 7629875570483434426, guid: 9d28019c79737cf4f97635bf82b07945, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -1558,7 +1558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f2b14e57bedd64298df0340732995d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vehicle: {fileID: 0}
   lengthAwayFromPlayer: 0.7
 --- !u!1001 &1073167115
 PrefabInstance:

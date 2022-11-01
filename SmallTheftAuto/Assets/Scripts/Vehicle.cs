@@ -4,16 +4,18 @@ using UnityEngine;
 public class Vehicle : MonoBehaviour
 {
     public GameObject player;
-    public CarMovement carMovement;
+    private CarMovement carMovement;
 
     private void Start()
     {
         player = FindObjectOfType<PlayerMovement>().gameObject;
+        carMovement = GetComponent<CarMovement>();
     }
 
     public void Enter()
     {
-        player.SetActive(false);
+        Driver driver = player.GetComponent<Driver>();
+        driver.gameObject.SetActive(false);
         carMovement.enabled = true;
     }
 
